@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=msndev.msndev)
-[![Github](https://img.shields.io/github/followers/msndev?label=Follow&style=social)](https://github.com/msndev)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=msndev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msndev&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msndev&theme=tokyonight)
 
 <!--
 **msndev/msndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
