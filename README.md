@@ -1,5 +1,7 @@
 ### Hi there I am msndev a.k.a SIRI 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+<br>
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msndev&theme=shadow_blue)
 
 <!--
